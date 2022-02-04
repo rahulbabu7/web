@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    font-size: 90px;
+        font-weight: 900;
+    font-style: italic;
+     color: rgb(61, 5, 107);
+     
+}
+
+body{
+    background-color: rgba(42, 189, 128, 0.733);
+   
+    
+}
+h2{
+    color: rgb(2, 0, 0);
+    text-align: center;
+}
+h3{
+    color: rgb(0, 0, 0);
+    
+}
+ul{
+    text-align: center;
+    color: rgb(4, 49, 19);
+    font-size: 30px;
+}
+
